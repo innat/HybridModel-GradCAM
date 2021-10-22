@@ -10,6 +10,8 @@ This repo provides and unofficial implementation of Hybrid-Swin-Transformer in `
 - Use CutMix, MixUp augmentaiton. How does swin react on them!
 - Check out [this thread](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/277917) for more details. Below is the overall diagram. And in this notebook, we're trying to implement it quickly as possible. Please note, the implementation would be not optimal but hopefully it'd ok to get started on it.
 
+## Model EfficientNet Hybrid-Swin-Transformers
+
 ![](https://i.imgur.com/2iXNuBA.png)
 
 ## DISCLAIMER
