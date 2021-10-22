@@ -1,4 +1,4 @@
-## Efficient large-scale image retrieval with deep feature orthogonalityand Hybrid-Swin-Transformers
+# TensorFlow Implementation of EfficientNet Hybrid-Swin-Transformers
 
 This repo provides and unofficial implementation of Hybrid-Swin-Transformer in `TensorFLow 2`. Reference paper: https://arxiv.org/pdf/2110.03786.pdf
 
