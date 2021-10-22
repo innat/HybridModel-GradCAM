@@ -1,4 +1,5 @@
-# What is this notebook about?¶
+# What is this notebook about?
+
 - It's a code example script (demonstration purpose don't belon to any comp.).
 - A minimal implementation of Hybrid Efficientnet Swin-Transformer in tf.keras
 - Grad-CAM of the Swin-Transformer.
