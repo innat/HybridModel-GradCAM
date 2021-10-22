@@ -1,4 +1,8 @@
-# What is this notebook about?
+## Efficient large-scale image retrieval with deep feature orthogonalityand Hybrid-Swin-Transformers
+
+This repo provides and unofficial implementation of Hybrid-Swin-Transformer in `TensorFLow 2`. Reference paper: https://arxiv.org/pdf/2110.03786.pdf
+
+**What is this notebook about?**
 
 - It's a code example script (demonstration purpose don't belon to any comp.).
 - A minimal implementation of Hybrid Efficientnet Swin-Transformer in tf.keras
@@ -11,7 +15,7 @@
 ## DISCLAIMER
 - The implementation of swin-transformer in tf.keras is mostly borrowed from [VcampSoldiers/Swin-Transformer-Tensorflow](https://github.com/VcampSoldiers/Swin-Transformer-Tensorflow) and [keras-code-examples](https://keras.io/examples/vision/swin_transformers/).
 - Please note, none of the un-official implementation is efficient enough; there are some possible bugs. So, consider it if you use this. Please refer to the official implementation in pytorch in that case.
-- Also, this is just for demonstration purpose.
+
 
 ## Runing Code 
 
@@ -21,6 +25,3 @@
 
 ## Grad-CAM of Hybrid-Swin 
 ![download](https://user-images.githubusercontent.com/17668390/138469478-37180400-54ed-4cf4-9cf5-2eb562f10ab8.png)
-
-
-
