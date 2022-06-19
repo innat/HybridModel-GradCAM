@@ -1,0 +1,7 @@
+tensorflow==2.6.4
+jax==0.3.13
+jaxlib
+numpy
+matplotlib
+gradio==3.0.15
+gdown==4.4.0

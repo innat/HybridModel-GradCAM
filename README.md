@@ -1,19 +1,30 @@
+## Visual Interpretation of a Hybrid Model 
 
-# Hybrid EfficientNet Swin Transformer (HENetSwinT)
+By building a hybrid model with *EfficientNet* and *Swin Transformer*, we have tried to inspect the visual interpretations of a CNN and Transformer blocks of a hybrid model (CNN + Swin Transformer) with the GradCAM technique. 
+
+<table class="tfo-notebook-buttons" align="center">
+  <td>
+    <a href="[https://colab.research.google.com/github/ageron/handson-ml2/blob/master/](https://colab.research.google.com/drive/1usxq9yhZthyapAnzFfFObQ7RjXPicAop?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+    
+  <td>
+    <a target="_blank" href="https://github.com/innat/Hybrid-EfficientNet-Swin-Transformer"><img src="https://img.shields.io/badge/GitHub-View%20source-lightgrey" /></a>
+  </td>
+    
+   <td>
+    <a target="_blank" href="https://deepnote.com/workspace/mohammed-innat-36e929bc-ce23-4d95-9ddc-a9c6662eb7d6/project/Notebooks-32e94ef4-8ce0-4cc4-8042-49862519f3f2/%2F%5BDeepnote%5D_HENetSwinT.ipynb"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" /></a>
+  </td>
+    
+   <td>
+    <a target="_blank" href="https://www.kaggle.com/code/ipythonx/tf-hybrid-efficientnet-swin-transformer-gradcam"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
+   </td>
+    
+   <td>
+    <a target="_blank" href="https://github.com/tensorflow/similarity/blob/master/examples/unsupervised_hello_world.ipynb"><img src="https://img.shields.io/badge/Try%20on-Gradio-orange" /></a>
+   </td>
+    
+</table>
+
 
 ![](https://user-images.githubusercontent.com/17668390/149625554-b9c7074a-2137-49d5-8726-a3fbfa3f9a4c.gif)
-<div align="center">
-  Figure: Grad-CAMs. Left (Input), Middle (CNN), Right (CNN + Swin Transformer).
-</div>
 
-# Code
-
-This repo provides and unofficial implementation of Hybrid EfficientNet-Swin-Transformer in `TensorFLow 2`. Reference paper: https://arxiv.org/pdf/2110.03786.pdf.
-
-1. [TF.Keras: Hybrid EfficientNet Swin Transformer TPU](https://www.kaggle.com/ipythonx/tf-keras-hybrid-efficientnet-swin-transformer-tpu)
-2. [TF: Hybrid EfficientNet Swin-Transformer : GradCAM](https://www.kaggle.com/ipythonx/tf-hybrid-efficientnet-swin-transformer-gradcam)
-
-
-## DISCLAIMER
-- The implementation of swin-transformer in tf.keras is mostly borrowed from [VcampSoldiers/Swin-Transformer-Tensorflow](https://github.com/VcampSoldiers/Swin-Transformer-Tensorflow) and [keras-code-examples](https://keras.io/examples/vision/swin_transformers/).
-- Please note, none of the un-official implementation is efficient enough; there can be some possible bugs. So, consider it if you use this. Please refer to the official implementation in pytorch in that case.
