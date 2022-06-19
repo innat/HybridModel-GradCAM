@@ -20,7 +20,7 @@ By building a hybrid model with *EfficientNet* and *Swin Transformer*, we have t
    </td>
     
    <td>
-    <a target="_blank" href="https://github.com/tensorflow/similarity/blob/master/examples/unsupervised_hello_world.ipynb"><img src="https://img.shields.io/badge/Try%20on-Gradio-orange" /></a>
+    <a target="_blank" href="https://huggingface.co/spaces/innat/HybridModel-GradCAM"><img src="https://img.shields.io/badge/Try%20on-Gradio-orange" /></a>
    </td>
     
 </table>
