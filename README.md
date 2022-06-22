@@ -1,6 +1,6 @@
 ## Visual Interpretation of a Hybrid Model 
 
-By building a hybrid model with *EfficientNet* and *Swin Transformer*, we have tried to inspect the visual interpretations of a CNN and Transformer blocks of a hybrid model (CNN + Swin Transformer) with the GradCAM technique. 
+By building a hybrid model with *EfficientNet* and *Swin Transformer*, we have tried to inspect the visual interpretations of a CNN and Transformer blocks with the GradCAM technique. 
 
 <table class="tfo-notebook-buttons" align="center">
   <td>
