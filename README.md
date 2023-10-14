@@ -2,6 +2,9 @@
 
 By building a hybrid model with *EfficientNet* and *Swin Transformer*, we have tried to inspect the visual interpretations of a CNN and Transformer blocks with the GradCAM technique. 
 
+[![Palestine](https://img.shields.io/badge/Free-Palestine-white?labelColor=green)](https://twitter.com/search?q=%23FreePalestine&src=typed_query)
+
+
 <table class="tfo-notebook-buttons" align="center">
   <td>
     <a href="https://colab.research.google.com/drive/1usxq9yhZthyapAnzFfFObQ7RjXPicAop?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
